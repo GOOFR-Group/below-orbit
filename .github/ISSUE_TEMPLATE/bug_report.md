@@ -11,8 +11,8 @@ assignees: ''
 A clear and concise description of the bug.
 
 ## Steps to Reproduce
-1. Go to ‘…’
-2. Click on ‘…’
+1. Go to "..."
+2. Click on "..."
 3. Observe the issue
 
 ## Expected Behavior
